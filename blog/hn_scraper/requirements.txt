@@ -5,7 +5,7 @@ cryptography==0.8.2
 cssselect==0.9.1
 enum34==1.0.4
 frontera==0.3.0.post.dev2
-lxml==3.4.3
+lxml==4.6.5
 pyOpenSSL==0.15.1
 pyasn1==0.1.7
 pycparser==2.10
